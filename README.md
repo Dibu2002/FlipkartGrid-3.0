@@ -1,6 +1,6 @@
 # **Flipkart GRiD 3.0 Robotics Challenge**
 ## _Created a Centerally Monitered Parcel Sortation System_ 
-<img src="/Images/Flipkart-logo.png" alt="Flipkart-logo" width="150"/>
+<img src="Images/Flipkart-logo.png" alt="Flipkart-logo" width="150"/>
 
 **Problem Statement:** To develop central monitoring/navigation system (such as a camera or multiple cameras) should be used to understand the arena and the position of the robots and instruct robots on actions to be taken.
 
